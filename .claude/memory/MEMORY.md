@@ -1,0 +1,4 @@
+- [Kiln Journal overview](project_kiln_journal.md) — full app picture: screens, flows, file map, data model, stack, known gotchas
+- [Architectural decisions](project_decisions.md) — settled decisions; check before proposing alternatives
+- [Collaboration preferences](feedback_collaboration.md) — deploy auth, decision durability, UI patterns (debouncing, icon sizing, increment UX)
+- [Armadillo Clay supplier](reference_armadillo_clay.md) — clay catalog source URLs

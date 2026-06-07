@@ -1,8 +1,8 @@
 # Kiln Journal — Claude Instructions
 
 ## Memory
-Project memory lives at `~/.claude/projects/-mnt-c-Users-Owner-kiln-journal/memory/`.
-Read `MEMORY.md` there at the start of every session. It indexes the individual files.
+Project memory lives at `.claude/memory/` in this repo.
+Read `.claude/memory/MEMORY.md` at the start of every session. It indexes the individual files.
 
 **Keep memory current throughout every session — do not wait to be asked.**
 After any meaningful decision, design choice, UX pattern, user preference, or architectural
@@ -26,6 +26,6 @@ What does NOT need a memory update:
 without asking. Do not deploy to any other target without explicit approval.
 
 ## Decisions
-Settled architectural decisions are in `project_decisions.md` in the memory folder.
+Settled architectural decisions are in `.claude/memory/project_decisions.md`.
 Read that file before proposing alternatives to anything already listed.
 Only re-open a decision if a new constraint surfaces that wasn't considered when it was made.

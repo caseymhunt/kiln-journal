@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(firebase deploy *)",
+      "Bash(node *)",
+      "WebFetch(domain:kiln-journal.web.app)",
+      "WebFetch(domain:www.armadilloclay.com)",
+      "WebFetch(domain:www.ortonceramic.com)",
+      "WebFetch(domain:ceramicmaterialsworkshop.com)",
+      "WebFetch(domain:www.thepotterywheel.com)",
+      "WebFetch(domain:thepotterywheel.com)",
+      "WebFetch(domain:suemcleodceramics.com)",
+      "WebFetch(domain:www.soulceramics.com)",
+      "WebFetch(domain:bigceramicstore.com)",
+      "WebFetch(domain:skutt.com)",
+      "WebFetch(domain:digitalfire.com)",
+      "WebFetch(domain:hotkilns.com)",
+      "WebFetch(domain:www.olympickilns.com)",
+      "WebFetch(domain:community.ceramicartsdaily.org)",
+      "WebFetch(domain:kilnfrog.com)",
+      "WebFetch(domain:www.manualslib.com)",
+      "WebSearch"
+    ]
+  }
+}

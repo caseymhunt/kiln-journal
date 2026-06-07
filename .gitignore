@@ -68,6 +68,8 @@ node_modules/
 # dataconnect generated files
 .dataconnect
 
-# Claude Code agent skills and local settings
+# Claude Code agent skills (restored from skills-lock.json)
 .agents/
-.claude/
+
+# Local-only Claude Code overrides
+.claude/settings.local.json
