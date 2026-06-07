@@ -2,3 +2,4 @@
 - [Architectural decisions](project_decisions.md) — settled decisions; check before proposing alternatives
 - [Collaboration preferences](feedback_collaboration.md) — deploy auth, decision durability, UI patterns (debouncing, icon sizing, increment UX)
 - [Armadillo Clay supplier](reference_armadillo_clay.md) — clay catalog source URLs
+- [GitHub repo and Firebase security](reference_github_firebase.md) — repo URL, API key restriction status, Cloud Console link
