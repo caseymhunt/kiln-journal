@@ -1,0 +1,19 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  font-family: var(--font-sans);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar { display: none; }
+* { -ms-overflow-style: none; scrollbar-width: none; -webkit-tap-highlight-color: transparent; }
+
+button { cursor: pointer; border: none; background: none; font-family: inherit; color: inherit; -webkit-appearance: none; }
+input, textarea, select { outline: none; -webkit-appearance: none; appearance: none; font-family: inherit; }
+img { display: block; max-width: 100%; }
+
+.hidden { display: none !important; }

@@ -1,0 +1,240 @@
+{
+  "longhorn-white": {
+    "desc": "New Non-Talc formula of Longhorn White, a smooth clay that fires a nice snow white color. Suitable for hand-building or wheel-throwing. For the best results, bisque to Cone 04 then glaze to Cone 06.",
+    "shrinkage": null,
+    "absorption": null,
+    "coe": null,
+    "img": "img/clays/longhorn-white.jpeg"
+  },
+  "longhorn-red": {
+    "desc": "A smooth clay that fires a rich terracotta color. Suitable for hand-building or wheel-throwing. For the best results, bisque to Cone 04 then glaze to Cone 06.",
+    "shrinkage": 7.6,
+    "absorption": 8.74,
+    "coe": 5.4,
+    "img": "img/clays/longhorn-red.jpeg"
+  },
+  "longhorn-white-grog": {
+    "desc": "A moderately coarse clay that fires white with grog speckles. Suitable for hand-building or wheel-throwing. For the best results, bisque to Cone 04 then glaze to Cone 06.",
+    "shrinkage": 6.5,
+    "absorption": 13.82,
+    "coe": 4.6,
+    "img": "img/clays/longhorn-white-grog.jpeg"
+  },
+  "longhorn-red-grog": {
+    "desc": "A moderately coarse clay that fires a rich terracotta color with grog speckles. Great for hand-building or large wheel-throwing. For the best results, bisque to Cone 04 then glaze to Cone 06.",
+    "shrinkage": 7.7,
+    "absorption": 9.69,
+    "coe": 5.3,
+    "img": "img/clays/longhorn-red-grog.jpeg"
+  },
+  "modeling-clay": {
+    "desc": "Water-based modeling clay that is perfect for mold-making and maquette purposes. Can be fired to low-fire (cone 04/06) temperatures, but will have unpredictable absorption and vitrification rates. Available in red or white/gray",
+    "shrinkage": null,
+    "absorption": null,
+    "coe": null,
+    "img": "img/clays/modeling-clay.png"
+  },
+  "raku-low": {
+    "desc": "Contains grog and sand, great for withstanding the thermal shock of raku firing. Fires from white at Cone 06 a light warm brown at Cone 10. Fired to Cone 5:",
+    "shrinkage": 7.8,
+    "absorption": 3.95,
+    "coe": 5,
+    "img": "img/clays/raku-low.jpeg"
+  },
+  "buffalo-wallow": {
+    "desc": "A light red-brown clay, has light sand for texture and strength. Great for throwing and sculpting. Fires to Cone 5/6.",
+    "shrinkage": 13,
+    "absorption": 1.73,
+    "coe": 5.5,
+    "img": "img/clays/buffalo-wallow.jpeg"
+  },
+  "buffalo-wallow-grog": {
+    "desc": "A light red-brown clay, has grog added for texture and strength. Great for large throwing and sculpting. Fires to Cone 5/6.",
+    "shrinkage": 11.63,
+    "absorption": 1.79,
+    "coe": 5.6,
+    "img": "img/clays/buffalo-wallow-grog.jpeg"
+  },
+  "cinco-blanco": {
+    "desc": "A strong, lightly textured clay, fires from an off white to light buff, depending on amount of reduction. Fires to Cone 5/6.",
+    "shrinkage": 11.7,
+    "absorption": 2.8,
+    "coe": 4.8,
+    "img": "img/clays/cinco-blanco.jpeg"
+  },
+  "cinco-rojo": {
+    "desc": "A deep red-brown clay with light sand for texture and strength, good for throwing and hand-building. Fires to Cone 5. Overfiring may cause bloating.",
+    "shrinkage": 12.88,
+    "absorption": 1,
+    "coe": 5.3,
+    "img": "img/clays/cinco-rojo.jpeg"
+  },
+  "cinco-rojo-grog": {
+    "desc": "A speckled red-brown clay with grog added for texture and strength. Good for large throwing and hand-building. Fires to Cone 5. Overfiring may cause bloating.",
+    "shrinkage": 12.13,
+    "absorption": 0.47,
+    "coe": 5.5,
+    "img": "img/clays/cinco-rojo-grog.jpeg"
+  },
+  "cone-5-porcelain": {
+    "desc": "A very smooth, off-white porcelain that is excellent for throwing on the wheel. Formulated for cone 5/6, but performs beautifully in cone 10 reduction and atmospheric firings!",
+    "shrinkage": 11.25,
+    "absorption": 2.59,
+    "coe": 6,
+    "img": "img/clays/cone-5-porcelain.jpeg"
+  },
+  "wc437-frost-porcelain": {
+    "desc": "An exceptionally white and translucent throwing porcelain for Cone 5-6 Cone: 6",
+    "shrinkage": 11,
+    "absorption": null,
+    "coe": 7.14,
+    "img": "img/clays/wc437-frost-porcelain.png"
+  },
+  "laguna-bmix-5": {
+    "desc": "Laguna's Cone 5 B-Mix has a smooth, porcelain texture and is good for hand-building and throwing. Avg.",
+    "shrinkage": 12,
+    "absorption": 2.3,
+    "coe": 5.74,
+    "img": "img/clays/laguna-bmix-5.jpeg"
+  },
+  "laguna-bmix-speckled": {
+    "desc": "This is a mid temperature, smooth, porcelaneous stoneware that is very plastic and workable. This clay prefers slow drying and ample compression on rims and bottoms to avoid cracks. Characteristics Cone: 5 Firing Color: Oxidation: warm white with speckles - Reduction: N/A Texture: Smooth Penetrometer Target: 6.75 Avg.",
+    "shrinkage": 12.47,
+    "absorption": 2.47,
+    "coe": 6.51,
+    "img": "img/clays/laguna-bmix-speckled.png"
+  },
+  "laguna-speckled-buff": {
+    "desc": "Clay body specifically formulated by request from Midwest and Eastern U.S. potters. Low in sand and grog conten t, speckled buff is smooth textured . An excellent throwing body. The color palette is perhaps best described as 'desert' or 'Southwest'. Fired in oxidation, Speckled Buff falls into the tan/brown color range. Oxidation ( First Image), Reduction ( Second Image). Characteristics Cone: 5 Wet Color: Red Brown Firing Color: Oxidation: Buff w/ Specks - Reduction: Brown w/ Specks Texture: Slightly Coarse Penetrometer Target: 6.75 Avg.",
+    "shrinkage": 12,
+    "absorption": 3,
+    "coe": 6.12,
+    "img": "img/clays/laguna-speckled-buff.png"
+  },
+  "laguna-b3-brown": {
+    "desc": "A pliable clay with smooth grog. Great for sculpture (use a high gloss glaze when making dinnerware). Color comes from manganese and iron. Fires almost black when in oxidation. It is not recommended to fire this clay in reduction. *Do not fire past Cone 5 Cone: 5 Wet Color: Red/Brown",
+    "shrinkage": 10,
+    "absorption": 3,
+    "coe": 7.275,
+    "img": "img/clays/laguna-b3-brown.png"
+  },
+  "laguna-azabache": {
+    "desc": "Rich toned black clay at cone 5. Really smooth throwing body for mid-scale work. With the color content of this clay, we recommend firing no hotter than cone 5. Glaze testing is encouraged. *Do not fire past Cone 5 Cone: 5 Wet Color: Black",
+    "shrinkage": 13,
+    "absorption": 2.59,
+    "coe": 6.1,
+    "img": "img/clays/laguna-azabache.png"
+  },
+  "dark-chocolate-32": {
+    "desc": "Amaco's No.32 Dark Chocolate can be fired to cone 5 to achieve the desired dark chocolatey color or to cone 6 for a deeper hue. It boasts a smooth texture and remarkable workability, allowing your creative visions to take shape with ease. This clay is manganese free. Cone 5",
+    "shrinkage": 13.5,
+    "absorption": 0.5,
+    "coe": null,
+    "img": "img/clays/dark-chocolate-32.png"
+  },
+  "raku-mid": {
+    "desc": "Contains grog and sand, great for withstanding the thermal shock of raku firing. Fires from white at Cone 06 a light warm brown at Cone 10. Fired to Cone 5:",
+    "shrinkage": 7.8,
+    "absorption": 3.95,
+    "coe": 5,
+    "img": "img/clays/raku-low.jpeg"
+  },
+  "armstone": {
+    "desc": "A heavily textured clay ideal for throwing large pots and hand-building. It fires a light warm brown in Cone 10 reduction. Heavier reduction produces warmer, darker tones.",
+    "shrinkage": 11.25,
+    "absorption": 2.8,
+    "coe": 4.8,
+    "img": "img/clays/armstone.jpeg"
+  },
+  "balcones": {
+    "desc": "A nice plastic body, excellent for wheel-throwing or hand-building. Fires from light brown to warm orange brown, depending on the amount of reduction. Fires to cone 10.",
+    "shrinkage": 10.75,
+    "absorption": 2.88,
+    "coe": 5,
+    "img": "img/clays/balcones.jpeg"
+  },
+  "balcones-white": {
+    "desc": "A nice plastic body, excellent for wheel-throwing or hand-building. Fires from creamy tan to light brown, depending on the amount of reduction. Fires to cone 10.",
+    "shrinkage": 13,
+    "absorption": 3.26,
+    "coe": 5,
+    "img": "img/clays/balcones-white.jpeg"
+  },
+  "balcones-dark": {
+    "desc": "A nice plastic body, excellent for wheel-throwing or hand-building. Fires a sandy brown in oxidation, and medium-to-dark brown in light reduction. NOT recommended for heavy reduction due to a potential for bloating. Fires to cone 10.",
+    "shrinkage": 11.63,
+    "absorption": 2.33,
+    "coe": 5.2,
+    "img": "img/clays/balcones-dark.jpeg"
+  },
+  "grande": {
+    "desc": "This groggy body has extra strength for big pots and sculptures, great for hand-building. Fires from warm medium brown to golden brown at Cone 10, depending on amount of reduction.",
+    "shrinkage": 9.75,
+    "absorption": 1.7,
+    "coe": 5.5,
+    "img": "img/clays/grande.jpeg"
+  },
+  "gruene-butter": {
+    "desc": "A very smooth and plastic clay, superb for throwing. Very forgiving. Fires from an off-white to a toasty golden tan, depending on the amount of reduction Cone 10.",
+    "shrinkage": 11.67,
+    "absorption": 2.48,
+    "coe": 5.1,
+    "img": "img/clays/gruene-butter.jpeg"
+  },
+  "dillo-white": {
+    "desc": "A smooth off-white clay that is quite plastic, excellent for throwing. Beautiful in reduction and atmospheric firings. Fire to Cone 10. Fired to Cone 10 (Recommended):",
+    "shrinkage": 11.75,
+    "absorption": 2.02,
+    "coe": 5.4,
+    "img": "img/clays/dillo-white.jpeg"
+  },
+  "awesome-possum": {
+    "desc": "Our newest and most popular porcelain body! Awesome Possum is made with Molochite, a very fine aggregate that gives porcelain strength and plasticity without sacrificing the smooth, buttery texture. Throws beautifully and performs well in reduction and atmospheric firings. Fire to cone 10. Neutral white in oxidation, cool white in reduction. Fired to Cone 10 (Recommended):",
+    "shrinkage": 18,
+    "absorption": 0.09,
+    "coe": null,
+    "img": "img/clays/awesome-possum.jpeg"
+  },
+  "cone-10-porcelain": {
+    "desc": "A very plastic clay with excellent strength for throwing larger pieces, resists cracking and warping. Fires eggshell white at Cone 10.",
+    "shrinkage": 12,
+    "absorption": 1.65,
+    "coe": 5.5,
+    "img": "img/clays/cone-10-porcelain.jpeg"
+  },
+  "laguna-bmix-10": {
+    "desc": "Laguna's Cone 10 B-mix has a smooth porcelain texture and is good for throwing and hand-building. Avg.",
+    "shrinkage": 13,
+    "absorption": 1,
+    "coe": 7,
+    "img": "img/clays/laguna-bmix-10.jpeg"
+  },
+  "bmix-wood-fire-10": {
+    "desc": "A specially formulated version of Laguna's popular B-mix body for wood and salt firing. Takes Salt and Soda well and exhibits nice flashing characteristics in wood firings. Holds up well in Cone 12 atmospheric firings. Cone: 13 Avg.",
+    "shrinkage": 13,
+    "absorption": null,
+    "coe": null,
+    "img": "img/clays/bmix-wood-fire-10.png"
+  },
+  "laguna-lc2-sable": {
+    "desc": "This clay is lightly grogged with no sand and has shown to do really well with both hand built and thrown ceramic wares. Fires to a bluish color in bisque. Deep black at cone 10. Black clays can affect glazes so testing will be required. Bloating has not been an issue with this clay. Cone: 10",
+    "shrinkage": 10.5,
+    "absorption": 0.06,
+    "coe": 5.26,
+    "img": "img/clays/laguna-lc2-sable.png"
+  },
+  "seidel-clay": {
+    "desc": "A very smooth and plastic clay, good for throwing and handbuilding. Very forgiving. Reduction color varies.",
+    "shrinkage": 11.2,
+    "absorption": 1.4,
+    "coe": null,
+    "img": "img/clays/seidel-clay.jpeg"
+  },
+  "raku-high": {
+    "desc": "Contains grog and sand, great for withstanding the thermal shock of raku firing. Fires from white at Cone 06 a light warm brown at Cone 10. Fired to Cone 5:",
+    "shrinkage": 7.8,
+    "absorption": 3.95,
+    "coe": 5,
+    "img": "img/clays/raku-low.jpeg"
+  }
+}
